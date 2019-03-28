@@ -12,14 +12,32 @@ sidebar:
 Lets introduce Untacit Team.
 
 # Toacy Oliveira
+<left>
+ <img src="./images/toacy.png" alt="Toacy"/>
+</left>
 
 Toacy has been working with software engineering practices for the past 25 years! He holds a Ph.D. in Computer Science and is currently working with representation and analysis of knowledge intensive processes, work graphs and process navigation. 
 
-# Gláucia Melo
+# Glaucia Melo
+<left>
+ <img src="./images/glaucia.png" alt="Glaucia"/>
+</left>
 
-Glaucia holds a Masters degree in software engineering and has worked with software development practices and database administration in the past 15 years. She is also certified in software product quality assurance. She is currently interested in researching software engineering practices and tech to make software creation easier for everyone interested!
+Glaucia holds a Master's degree in software engineering and has worked with software development practices and database administration in the past 15 years. She is currently interested in researching software engineering practices and tech to make software creation easier for everyone interested!
 
 # Ulisses Telemaco
+<left>
+ <img src="./images/ulisses.png" alt="Ulisses"/>
+</left>
+Ulisses is a software architect and holds a Master's degree. Is passionate about coding and everything code related. Building solutions from scratch is his motto!
 
-Ulisses is a software architect and holds a Master's degree. Is passionate about coding and everything code related.
+# Paulo Alencar
+<left>
+ <img src="./images/paulo.png" alt="Paulo"/>
+</left>
+
+# Don Cowan
+<left>
+ <img src="./images/don.png" alt="Don"/>
+</left>
 
